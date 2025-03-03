@@ -1,0 +1,2 @@
+F:\MS23131\LiveprojectGIT\BlazorWASM_API\dist\emcc-props.json
+F:\MS23131\LiveprojectGIT\BlazorWASM_API\dist\web.config

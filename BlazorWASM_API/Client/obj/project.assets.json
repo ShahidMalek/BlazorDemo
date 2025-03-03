@@ -1877,11 +1877,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MS23131\\BlazorWASM_API\\BlazorWASM_API\\Client\\BlazorWASM_API.Client.csproj",
+      "projectUniqueName": "F:\\MS23131\\LiveprojectGIT\\BlazorWASM_API\\BlazorWASM_API\\Client\\BlazorWASM_API.Client.csproj",
       "projectName": "BlazorWASM_API.Client",
-      "projectPath": "F:\\MS23131\\BlazorWASM_API\\BlazorWASM_API\\Client\\BlazorWASM_API.Client.csproj",
+      "projectPath": "F:\\MS23131\\LiveprojectGIT\\BlazorWASM_API\\BlazorWASM_API\\Client\\BlazorWASM_API.Client.csproj",
       "packagesPath": "C:\\Users\\NCDFI\\.nuget\\packages\\",
-      "outputPath": "F:\\MS23131\\BlazorWASM_API\\BlazorWASM_API\\Client\\obj\\",
+      "outputPath": "F:\\MS23131\\LiveprojectGIT\\BlazorWASM_API\\BlazorWASM_API\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1902,8 +1902,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\MS23131\\BlazorWASM_API\\BlazorWASM_API\\Shared\\BlazorWASM_API.Shared.csproj": {
-              "projectPath": "F:\\MS23131\\BlazorWASM_API\\BlazorWASM_API\\Shared\\BlazorWASM_API.Shared.csproj"
+            "F:\\MS23131\\LiveprojectGIT\\BlazorWASM_API\\BlazorWASM_API\\Shared\\BlazorWASM_API.Shared.csproj": {
+              "projectPath": "F:\\MS23131\\LiveprojectGIT\\BlazorWASM_API\\BlazorWASM_API\\Shared\\BlazorWASM_API.Shared.csproj"
             }
           }
         }

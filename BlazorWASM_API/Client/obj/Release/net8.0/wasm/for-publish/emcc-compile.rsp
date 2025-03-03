@@ -5,7 +5,7 @@
 -DLINK_ICALLS=1
 -DGEN_PINVOKE=1
 -emit-llvm
-"-IF:\MS23131\BlazorWASM_API\BlazorWASM_API\Client\obj\Release\net8.0\wasm\for-publish"
+"-IF:\MS23131\LiveprojectGIT\BlazorWASM_API\BlazorWASM_API\Client\obj\Release\net8.0\wasm\for-publish"
 "-IC:\Program Files\dotnet\packs\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\8.0.11\runtimes\browser-wasm\native\include\mono-2.0"
 "-IC:\Program Files\dotnet\packs\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\8.0.11\runtimes\browser-wasm\native\include\wasm"
 -g

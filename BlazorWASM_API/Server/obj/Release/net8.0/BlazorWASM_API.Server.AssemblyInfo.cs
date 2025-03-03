@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorWASM_API.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f09d74898064e89b512c3fcacbe69d6ae92a621b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6704d525000129f103fc41f1d91b27285e0c43d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorWASM_API.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorWASM_API.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
