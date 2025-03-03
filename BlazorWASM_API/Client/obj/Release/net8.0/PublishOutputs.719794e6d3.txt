@@ -1,0 +1,2 @@
+F:\MS23131\BlazorWASM_API\dist\emcc-props.json
+F:\MS23131\BlazorWASM_API\dist\web.config

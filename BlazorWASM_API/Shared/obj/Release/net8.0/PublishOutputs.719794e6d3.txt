@@ -1,0 +1,3 @@
+F:\MS23131\BlazorWASM_API\dist\BlazorWASM_API.Shared.dll
+F:\MS23131\BlazorWASM_API\dist\BlazorWASM_API.Shared.deps.json
+F:\MS23131\BlazorWASM_API\dist\BlazorWASM_API.Shared.pdb

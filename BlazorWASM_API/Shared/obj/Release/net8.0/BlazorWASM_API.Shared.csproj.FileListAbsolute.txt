@@ -1,0 +1,12 @@
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\bin\Release\net8.0\BlazorWASM_API.Shared.deps.json
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\bin\Release\net8.0\BlazorWASM_API.Shared.dll
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\bin\Release\net8.0\BlazorWASM_API.Shared.pdb
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\obj\Release\net8.0\BlazorWASM_API.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\obj\Release\net8.0\BlazorWASM_API.Shared.AssemblyInfoInputs.cache
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\obj\Release\net8.0\BlazorWASM_API.Shared.AssemblyInfo.cs
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\obj\Release\net8.0\BlazorWASM_API.Shared.csproj.CoreCompileInputs.cache
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\obj\Release\net8.0\BlazorWASM_API.Shared.sourcelink.json
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\obj\Release\net8.0\BlazorWASM_API.Shared.dll
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\obj\Release\net8.0\refint\BlazorWASM_API.Shared.dll
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\obj\Release\net8.0\BlazorWASM_API.Shared.pdb
+F:\MS23131\BlazorWASM_API\BlazorWASM_API\Shared\obj\Release\net8.0\ref\BlazorWASM_API.Shared.dll
